@@ -1,0 +1,7 @@
+{
+  "name": "FontAwesomeTutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
